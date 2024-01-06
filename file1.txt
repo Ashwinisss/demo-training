@@ -1,3 +1,4 @@
 abcdnewfile
 abcd1
 abcd2
+defg1
